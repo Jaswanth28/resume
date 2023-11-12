@@ -1,7 +1,13 @@
 # Skills
 # Organizational leadership
+- skill: Languages
+  description: Python.Java,C,R,SQL,JavaScript
+
+- skill: Technologies
+  description: Tensorflow,Pytorch,CV2,Visualisation(matplotlib, gnuplot,),Data handling/analysis(numpy, scipy, pandas, ...),Office
+
 - skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+  description: I have several years of experience leading organziations from community groups . From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
 # Communications strategy
 - skill: Communications strategy

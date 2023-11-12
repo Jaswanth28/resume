@@ -1,15 +1,44 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Wipro
+  role: Java Full Stack
+  year: Nov 2023 
+  url: https://cert.diceid.com/csr/cid/IDYN2T
 
+- organization: GUVI Geek Networks, IITM Research Park
+  role: AI for India 2.0
+  year: Aug 2023 
+  url: https://www.guvi.in/verify-certificate?id=F9o5cv3w00U6K72P17&course=ai_for_in_en
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: BITS Pilani, Hyderabad Campus
+  role: Aftershours hackathon 
+  year: Aug 2023 
+  url: https://bit.ly/afhcertf
+
+- organization: GUVI Geek Networks, IITM Research Park
+  role: Introduction to Programming Using Python
+  year: Aug 2023 
+  url: https://www.guvi.in/verify-certificate?id=8F61Hl31897891neVD&course=pythonEng
+
+- organization: HackerRank
+  role: SQL (Intermediate) HackerRank
+  year: Jul 2023 
+  url: https://www.hackerrank.com/certificates/26a50caa05d8
+
+- organization: HackerRank
+  role: Python (Basic) Hackerrank
+  year: Nov 2022 
+  url: https://www.hackerrank.com/certificates/5081190ba8b7
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+
+- organization: HackerRank
+  role: SQL (Basic) HackerRank
+  year: Nov 2022 
+  url: https://www.hackerrank.com/certificates/0042c4707b5e
+
+- organization: UDEMY
+  role: The complete Machine Learning course with python
+  year: Sep 2022 
+  url: https://www.udemy.com/certificate/UC-299fb6d6-fccc-4583-b4dd-f119cfe9065d/
+  # summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.

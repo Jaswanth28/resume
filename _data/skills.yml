@@ -6,8 +6,8 @@
 - skill: Technologies
   description: Tensorflow,Pytorch,CV2,Visualisation(matplotlib, gnuplot,),Data handling/analysis(numpy, scipy, pandas, ...),Flask API,Office
 
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups . From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# - skill: Organizational leadership
+  # description: I have several years of experience leading organziations from community groups . From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
 # Communications strategy
 - skill: Communications strategy

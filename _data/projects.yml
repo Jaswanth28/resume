@@ -2,15 +2,36 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Brain Tumor Detection
+  role: ML Model & Primary UI Developer
+  duration: Jun 2023  &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: An Windows Application which helps in identifying the type of tumor when an mri is uploded to the ml model with an breakthrough accuracy
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Alzheimer Disease Classification
+  role: ML Model Developer
+  duration: Jan 2023 &mdash; Mar 2023
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: using the MRI data of different stages of Alzheimer’s created at model which is used to classify MRI’s to respective stages of Alzheimer’s
+
+
+- project: House Price Prediction
+  role: ML Model & Primary UI Developer
+  duration: Dec 2022 &mdash; Jan 2023
+  # url: "#"
+  description: A windows application designed with Pyqt5 for user friendly interface made using Latest data of rentals in Hyderabad 
+
+
+- project: Custom Hand-Sign Detection
+  role: ML Model Developer
+  duration: Oct 2022 &mdash; Dec 2022
+  # url: "#"
+  description: Custom Hand Sign detection to identify and translate the sign language into text
+  with box over the real-time camera inputs
+
+- project: Movie Recommendation System
+  role: Recommendation Algorithm & Primary UI Developer
+  duration: Jul 2022  &mdash; Sep 2022
+  # url: "#"
+  description: A windows application designed with Pyqt5 for user friendly interface to suggest movies according to user taste using different python libraries and
+and a large data sets to handle and fresh list for users 

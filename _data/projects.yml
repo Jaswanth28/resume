@@ -26,12 +26,10 @@
   role: ML Model Developer
   duration: Oct 2022 &mdash; Dec 2022
   # url: "#"
-  description: Custom Hand Sign detection to identify and translate the sign language into text
-  with box over the real-time camera inputs
+  description: Custom Hand Sign detection to identify and translate the sign language into text with box over the real-time camera inputs
 
 - project: Movie Recommendation System
   role: Recommendation Algorithm & Primary UI Developer
   duration: Jul 2022  &mdash; Sep 2022
   # url: "#"
-  description: A windows application designed with Pyqt5 for user friendly interface to suggest movies according to user taste using different python libraries and
-and a large data sets to handle and fresh list for users 
+  description: A windows application designed with Pyqt5 for user friendly interface to suggest movies according to user taste using different python libraries and a large data sets to handle and fresh list for users 
